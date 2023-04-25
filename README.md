@@ -59,7 +59,7 @@ by default there may be multiple auto/default styles, the user can pick one of t
 the element object represents all available elements, each one can be displayed on the screen and each one may have as many properties as the developer wants to.
 every element must have a name (e.g. logo, location, ...etc) and a displayed property that can be changed to either true of false.
 
-**\*Note:** There are many ways of fixing this problem and many of these ways can provide users with multiple features such as drag-n-drop to fully customize the navbar including the order of the elements and everything, and saving these customizations into a separate CSS file at the editing time, **but**, if we gave the user all these abilities, this might come up with a bad user experience for customers and buyers because not every user knows how to design and how to pick colors, **so my suggestion** is to limit user boundaries\*\*
+***Note:** There are many ways of fixing this problem and many of these ways can provide users with multiple features such as drag-n-drop to fully customize the navbar including the order of the elements and everything, and saving these customizations into a separate CSS file at the editing time, **but**, if we gave the user all these abilities, this might come up with a bad user experience for customers and buyers because not every user knows how to design and how to pick colors, **so my suggestion** is to limit user boundaries**
 
 ### How the customization is saved
 
