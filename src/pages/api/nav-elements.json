@@ -1,1 +1,11 @@
-{"navStyle":"style_2","elements":[{"name":"logo","url":"","display":false},{"name":"location","url":"","display":true},{"name":"lang","url":"","display":true},{"name":"account","url":"","display":false},{"name":"home","url":"","display":true},{"name":"cart","url":"","display":false}]}
+{
+  "navStyle": "style_2",
+  "elements": [
+    { "name": "logo", "url": "", "display": false },
+    { "name": "location", "url": "", "display": true },
+    { "name": "lang", "url": "", "display": true },
+    { "name": "account", "url": "", "display": false },
+    { "name": "home", "url": "", "display": true },
+    { "name": "cart", "url": "", "display": false }
+  ]
+}
